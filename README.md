@@ -1,1 +1,1 @@
-# learningminds
+# eduweb
